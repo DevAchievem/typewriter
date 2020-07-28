@@ -7,7 +7,6 @@ for (const char of sentence) {
     process.stdout.write(char);
 
   }, when);
-  process.stdout.write('\n');
   when += 50;
 }
 	
